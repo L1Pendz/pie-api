@@ -1,0 +1,9 @@
+npm init -y
+npm i express pg dotenv
+npm i -D typescript @types/node @types/express @types/pg tsx
+npx tsc --init
+npm i zod
+npm i bcrypt jsonwebtoken
+npm i -D @types/bcrypt @types/jsonwebtoken
+npm i cors
+npm i -D @types/cors
